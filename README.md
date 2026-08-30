@@ -17,7 +17,7 @@
 
 - 💻 **JavaScript Developer** building end-to-end web apps and e-commerce solutions
 - 🧱 Core stack: **MongoDB, Express, React, Node.js (MERN)**
-- 🛒 Experienced with **Shopify** — custom themes, apps, and storefront development
+- 🛒 Experienced with **Shopify** - custom themes, apps, and storefront development
 - 📂 Check out my work at **[vivekpanchal.me](https://vivekpanchal.me)**
 - 💬 Ask me about **MERN, Shopify, JavaScript/TypeScript**
 - 📫 Reach me at **vivekpanchal135@gmail.com**
@@ -68,5 +68,5 @@
 ---
 
 <div align="center">
-  <i>Thanks for stopping by — feel free to explore my <a href="https://vivekpanchal.me">portfolio</a> or drop me a line!</i>
+  <i>Thanks for stopping by - feel free to explore my <a href="https://vivekpanchal.me">portfolio</a> or drop me a line!</i>
 </div>
